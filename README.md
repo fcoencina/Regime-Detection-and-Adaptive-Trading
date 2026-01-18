@@ -52,7 +52,12 @@ Proyecto de investigación que investiga si sistemas de trading adaptativo basad
 │   ├── 04_drawdowns.png
 │   └── 04_metrics_comparison.png
 │
+├── Detección_de_Régimen_y_Trading_Adaptativo.pdf
+|
+├── Poster_Detección_de_Régimen_y_Trading_Adaptativo.pdf
+|
 └── README.md
+
 ```
 
 ---
@@ -146,16 +151,17 @@ pip install yfinance pandas numpy matplotlib seaborn scikit-learn xgboost hmmlea
 
 ## 📄 Documentos Relacionados
 
-- Paper completo: `paper.pdf`
-- Poster académico: `poster.pdf`
-- Presentación: `slides.pdf`
+- Paper completo: `Detección_de_Régimen_y_Trading_Adaptativo.pdf` Nota: 100/100
+- Poster académico: `Poster_Detección_de_Régimen_y_Trading_Adaptativo.pdf` Nota: 84/100
 
 ---
 
 ## 📧 Contacto
 
 **Francisco Encina Aballay**
+
 Email: fcoencinaaba@gmail.com
+
 GitHub: fcoencina
 
 ---
